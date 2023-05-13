@@ -1,0 +1,36 @@
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.exe
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.deps.json
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.runtimeconfig.json
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.dll
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.pdb
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.koltuk.resources
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.AssemblyInfo.cs
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.dll
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\refint\ucak_rezervasyon.dll
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.pdb
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.genruntimeconfig.cache
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ref\ucak_rezervasyon.dll
+C:\Users\Enes\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.rezervasyon.resources
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.exe
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.deps.json
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.runtimeconfig.json
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.dll
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\bin\Debug\net6.0-windows\ucak_rezervasyon.pdb
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.koltuk.resources
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.rezervasyon.resources
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.AssemblyInfoInputs.cache
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.AssemblyInfo.cs
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.dll
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\refint\ucak_rezervasyon.dll
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.pdb
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ucak_rezervasyon.genruntimeconfig.cache
+C:\Users\Enes\Desktop\New folder\2\ucak_rezarvasyon\WinFormsApp3\obj\Debug\net6.0-windows\ref\ucak_rezervasyon.dll
